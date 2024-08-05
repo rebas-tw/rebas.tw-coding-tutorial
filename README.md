@@ -10,4 +10,4 @@ Rebas 程式教學企劃資源存放區
 
 ### 【Base Analysis】棒球分析基本功
 
-- [播放清單](https://youtu.be/leTmZIeWrso)
+- [播放清單](https://www.youtube.com/playlist?list=PLDjA-oL3_ChORJ93vGi6TGux99sCgvUrI)
